@@ -16,3 +16,7 @@ EOF
 ```
 (it will also copy the above to your clipboard)
 
+This also works with vim selections :)
+```
+:'<,'>!stringify
+```
