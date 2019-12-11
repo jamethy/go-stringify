@@ -18,5 +18,5 @@ EOF
 
 This also works with vim selections :)
 ```
-:'<,'>!stringify
+:'<,'>!stringify -i
 ```
